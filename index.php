@@ -16,7 +16,7 @@
   <a href="14-junho-20-junho/index.php">14 junho - 20 junho</a>
   <a href="21-junho-27-junho/index.php">21 junho - 27 junho</a>
   <a href="28-junho-4-julho/index.php">28 junho - 4 julho</a>
-  <a href="#">5 julho - 11 julho</a>
+  <a href="5-julho-11-julho/index.php">5 julho - 11 julho</a>
   <a href="#">12 julho - 18 julho</a>
   <a href="#">19 julho - 25 julho</a>
   <a href="#">26 julho - 1 agosto</a>
