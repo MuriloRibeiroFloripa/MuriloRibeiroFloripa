@@ -7,7 +7,6 @@
 	<link rel="stylesheet" href="css\template.css">
 </head>
 <body>
-
 <div class="topnav">
   <a href="10-maio-16-maio/index.html">10 maio - 16 maio</a>
   <a href="17-maio-23-maio/index.html">17 maio - 23 maio</a>
@@ -15,8 +14,8 @@
   <a href="31-maio-6-junho/index.html">31 maio - 6 junho</a>
   <a href="7-junho-13-junho/index.php">7 junho - 13 junho</a>
   <a href="14-junho-20-junho/index.php">14 junho - 20 junho</a>
-  <a href="#">21 junho - 27 junho</a>
-  <a href="#">28 junho - 4 julho</a>
+  <a href="21-junho-27-junho/index.php">21 junho - 27 junho</a>
+  <a href="28-junho-4-julho/index.php">28 junho - 4 julho</a>
   <a href="#">5 julho - 11 julho</a>
   <a href="#">12 julho - 18 julho</a>
   <a href="#">19 julho - 25 julho</a>
@@ -29,9 +28,7 @@
   <a href="#">6 setembro - 12 setembro</a>
   <a href="#">13 setembro - 19 setembro</a>
   <a href="#">20 setembro - 26 setembro</a>
-
 </div>
-
 <div class="content">
   <h2>10 maio - 16 maio - Início</h2>
   <p>Recursos destinatos à ambientação. Aqui, você encontrará informações sobre o funcionamento do curso, sobre o Moodle, além de outras informações.</p>
@@ -45,7 +42,6 @@
   <p>Nesta última unidade Programação Web Back End, aprenderemos sobre o desenvolvimento de aplicações para web, voltado ao back-end. Na prática utilizaremos a linguagem de programação PHP com Banco de Dados. Desenvolveremos um aplicação prática para consolidar os conhecimentos vistos. </p>
   <br>
 </div>
-
 <div class="footer">
   <p> Programador Web - cursos </p>
   <p> Programação Web Front End </p>
@@ -53,8 +49,5 @@
   <P> Banco de Dados SQl e NoSQL </P>
   <p> Programação Web Back End </p>
   <p> Câmpus Tubarão > Cursos FIC > 2021/1 > FIC - Programador Web</p>
-
-
 </div>
-
 </html>
