@@ -50,7 +50,7 @@
           		<table bgcolor="silver">
           			<tr>
           				<td><label> Informe a Senha: </label></td>
-          				<td><input type="senha" name="senha"></td>        
+          				<td><input type="number" name="senha" min="0" max="9"></td>        
           			</tr>
           			<tr>        
         					<td></td>       
@@ -59,11 +59,6 @@
         			</table>
         		</center>
         	</form>
-
-
-
-
-
       </ul>
   </nav>
 	
