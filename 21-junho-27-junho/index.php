@@ -44,6 +44,26 @@
           <p><h1>2.40- Fundamentos de Programação - Estrutras de Controle - Repetição - for - Parte 4</h1></p>
           <a href="repeticaofor4.php">Repetição - for - Parte 4 :</a>
           <p><h1>2.41- Fundamentos de Programação - Estrutras de Controle - Repetição - for - Parte 5</h1></p>
+          <p>Repetição - for - Parte 5 :</p>
+          <form method="post" action="repeticaofor5.php">
+          	<center>
+          		<table bgcolor="silver">
+          			<tr>
+          				<td><label> Informe a Senha: </label></td>
+          				<td><input type="senha" name="senha"></td>        
+          			</tr>
+          			<tr>        
+        					<td></td>       
+        					<td><input type="submit" name="Enviar"></td>        
+        				</tr>
+        			</table>
+        		</center>
+        	</form>
+
+
+
+
+
       </ul>
   </nav>
 	
