@@ -19,6 +19,21 @@
           <p><h1>2.35 - Fundamentos de Programação - Estrutras de Controle - Repetição - While - Parte 3</h1></p>
           <a href="repeticao2.php">Exemplo 1, while Parte3 :</a>
           <p><h1>2.36- Fundamentos de Programação - Estrutras de Controle - Repetição - While - Exercício 6</h1></p>
+          <p>Refazendo exercicio 6 das primeiras aulas, Tabuada:</p>
+          <form method="post" action="repeticao3.php">
+          	<center>
+          		<table bgcolor="silver">
+          			<tr>
+          				<td><label> Informe um numero para gerar a Tabuada desejada: </label></td>
+          				<td><input type="number" name="numero"></td>        
+          			</tr>
+          			<tr>        
+        					<td></td>       
+        					<td><input type="submit" name="Enviar"></td>        
+        				</tr>
+        			</table>
+        		</center>
+        </form>	
           <p><h1>2.37- Fundamentos de Programação - Estrutras de Controle - Repetição - for - Parte 1</h1></p>
           <p><h1>2.38- Fundamentos de Programação - Estrutras de Controle - Repetição - for - Parte 2</h1></p>
           <p><h1>2.39- Fundamentos de Programação - Estrutras de Controle - Repetição - for - Parte 3</h1></p>
