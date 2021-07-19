@@ -38,6 +38,7 @@
           <a href="repeticaofor1.php">Repetição - for - Parte 1 :</a>
 
           <p><h1>2.38- Fundamentos de Programação - Estrutras de Controle - Repetição - for - Parte 2</h1></p>
+          <a href="repeticaofor2.php">Repetição - for - Parte 2 :</a>
           <p><h1>2.39- Fundamentos de Programação - Estrutras de Controle - Repetição - for - Parte 3</h1></p>
           <p><h1>2.40- Fundamentos de Programação - Estrutras de Controle - Repetição - for - Parte 4</h1></p>
           <p><h1>2.41- Fundamentos de Programação - Estrutras de Controle - Repetição - for - Parte 5</h1></p>
