@@ -17,6 +17,7 @@
           <p><h1>2.34 - Fundamentos de Programação - Estrutras de Controle - Repetição - While - Parte 2</h1></p>
           <a href="repeticao1.php">Exemplo 1, while Parte2 :</a>
           <p><h1>2.35 - Fundamentos de Programação - Estrutras de Controle - Repetição - While - Parte 3</h1></p>
+          <a href="repeticao2.php">Exemplo 1, while Parte3 :</a>
           <p><h1>2.36- Fundamentos de Programação - Estrutras de Controle - Repetição - While - Exercício 6</h1></p>
           <p><h1>2.37- Fundamentos de Programação - Estrutras de Controle - Repetição - for - Parte 1</h1></p>
           <p><h1>2.38- Fundamentos de Programação - Estrutras de Controle - Repetição - for - Parte 2</h1></p>
