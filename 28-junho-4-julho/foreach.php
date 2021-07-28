@@ -10,12 +10,13 @@
 	<nav>
       <ul>
         <li><a href="index.php">VOLTAR A PAGINA PRINCIPAL</a></li>
-          <center><p><h1>2.45- Fundamentos de Programação - Vetores/Arrays - Estrutura de Repetição - Foreach</h1></p></center>  
+          <center><p><h1>2.46- Fundamentos de Programação - Vetores/Arrays - Estrutura de Repetição - Foreach</h1></p></center>  
       </ul>      
   	</nav>
 
   	<?php
   	//Foreach => para cada
+  	//Só funciona para array e vetores, variaveis com multiplos valores
 
   	$numero = [10, 20, 4];
   	$indice=1;
