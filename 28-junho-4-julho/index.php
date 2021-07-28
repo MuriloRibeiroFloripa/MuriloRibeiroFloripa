@@ -30,6 +30,20 @@
           <p>2.51- Fundamentos de Programação - Gerando uma tabela de forma dinâmica com cores rgb aleatórias</p>
           <a href="tabelaDinamicaCoresRGB.php">Fundamentos de Programação - Gerando uma tabela de forma Dinâmica com cores rgb aleatórias</a>
           <p>2.52- Fundamentos de Programação - Gerando um formulário dinamicamente</p>
+           <form method="post" action="formularioDinamico.php">
+            
+              <table bgcolor="silver">
+                <tr>
+                  <td><label> Informe a quantidade de pessoa que deseja cadastrar: </label></td>
+                  <td><input type="number" name="quantidade"></td>        
+                </tr>
+                <tr>        
+                  <td></td>       
+                  <td><input type="submit" name="Enviar"></td>        
+                </tr>
+              </table>
+            
+           </form>            
           <p>2.53- Fundamentos de Programação - Exibindo dados em vários elementos de um formulário </p>
       </ul>
   </nav>
