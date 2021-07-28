@@ -24,6 +24,7 @@
           <p>2.48- Fundamentos de Programação - Função rand()</p>
           <a href="funçãoRand.php">Fundamentos de Programação - Função rand()</a>
           <p>2.49- Fundamentos de Programação - Função rand() com rgb()</p>
+          <a href="funçãoRandComRGB.php">Fundamentos de Programação - Função rand() com rgb()</a>
           <p>2.50- Fundamentos de Programação - Gerando uma tabela de forma dinâmica</p>
           <p>2.51- Fundamentos de Programação - Gerando uma tabela de forma dinâmica com cores rgb aleatórias</p>
           <p>2.52- Fundamentos de Programação - Gerando um formulário dinamicamente</p>

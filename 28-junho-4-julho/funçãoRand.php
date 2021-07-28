@@ -21,7 +21,7 @@
   	$b = rand (0,255);
 
   	echo "Essas corres Corresponde ao RGB = ($r, $g, $b)";
-  	echo "<p style='background-color: rgb($r, $g, $b) '> <br>   Cor atribuida dinâmicamente<br><br></p>";
+  	echo "<p style='background-color: rgb($r, $g, $b) '> <br>Cor atribuida dinâmicamente<br><br></p>";
 
 	?>
 
