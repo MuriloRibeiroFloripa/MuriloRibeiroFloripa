@@ -20,8 +20,9 @@
           <p>2.46- Fundamentos de Programação - Vetores/Arrays - Estrutura de Repetição - Foreach</p>
           <a href="foreach.php">Vetores/Arrays - Estrutura de Repetição - Foreach</a>
           <p>2.47- Fundamentos de Programação - Arrays Associativos</p>
-           <a href="arraysAssociativos.php">Fundamentos de Programação - Arrays Associativos</a>
+          <a href="arraysAssociativos.php">Fundamentos de Programação - Arrays Associativos</a>
           <p>2.48- Fundamentos de Programação - Função rand()</p>
+          <a href="funçãoRand.php">Fundamentos de Programação - Função rand()</a>
           <p>2.49- Fundamentos de Programação - Função rand() com rgb()</p>
           <p>2.50- Fundamentos de Programação - Gerando uma tabela de forma dinâmica</p>
           <p>2.51- Fundamentos de Programação - Gerando uma tabela de forma dinâmica com cores rgb aleatórias</p>
