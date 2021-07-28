@@ -44,10 +44,7 @@
   	foreach($nomes as $valor) {
   		echo "<input type='checkbox' name='nome[]' value='$valor'>$valor";
   	}
- 	  ?>
-
-
-  	 					
+ 	  ?> 	 					
 
 </body>
 </html>
