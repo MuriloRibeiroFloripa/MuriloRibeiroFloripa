@@ -14,6 +14,7 @@
           <p>2.43- Fundamentos de Programação - Vetores/Arrays - Parte 1</p>
           <a href="vetores1.php">Vetores/Arrays - Parte 1</a>
           <p>2.44- Fundamentos de Programação - Vetores/Arrays - Parte 2</p>
+          <a href="vetores2.php">Vetores/Arrays - Parte 2</a>
           <p>2.45- Fundamentos de Programação - Vetores/Arrays - Parte 3</p>
           <p>2.46- Fundamentos de Programação - Vetores/Arrays - Estrutura de Repetição - Foreach</p>
           <p>2.47- Fundamentos de Programação - Arrays Associativos</p>

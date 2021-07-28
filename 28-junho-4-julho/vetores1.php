@@ -16,7 +16,6 @@
 
   	<?php
   	$numero = [10, 20, 32323, 4343, 6565, 878, 8, 90, 78, 565, 343, 89, 8.5, 5.9];
-
   	echo $numero [0];
 		echo "<br>";
   	echo $numero [1];
@@ -45,8 +44,6 @@
 		echo "<br>";
 		echo $numero [13];
 		echo "<br>";
-
-
 	?>
 
 </body>
