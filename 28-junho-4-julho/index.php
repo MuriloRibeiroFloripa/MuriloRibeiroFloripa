@@ -28,6 +28,7 @@
           <p>2.50- Fundamentos de Programação - Gerando uma tabela de forma dinâmica</p>
           <a href="tabelaDinamica.php">Fundamentos de Programação - Gerando uma tabela de forma Dinâmica</a>
           <p>2.51- Fundamentos de Programação - Gerando uma tabela de forma dinâmica com cores rgb aleatórias</p>
+          <a href="tabelaDinamicaCoresRGB.php">Fundamentos de Programação - Gerando uma tabela de forma Dinâmica com cores rgb aleatórias</a>
           <p>2.52- Fundamentos de Programação - Gerando um formulário dinamicamente</p>
           <p>2.53- Fundamentos de Programação - Exibindo dados em vários elementos de um formulário </p>
       </ul>
