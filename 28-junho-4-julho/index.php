@@ -46,6 +46,21 @@
            </form>            
           <p>2.53- Fundamentos de Programação - Exibindo dados em vários elementos de um formulário </p>
           <a href="elementoFormulario.php">Fundamentos de Programação - Exibindo dados em vários elementos de um formulário</a>
+          <p>2.54 - Desafio: proposto pelo Professor!</p>
+           <form method="post" action="desafio.php">
+            
+              <table bgcolor="silver">
+                <tr>
+                  <td><label> Nome: </label></td>
+                  <td><input type="text" name="nome"></td>        
+                </tr>
+                <tr>        
+                  <td></td>       
+                  <td><input type="submit" name="Enviar"></td>        
+                </tr>
+              </table>
+            
+           </form>
       </ul>
   </nav>
 	
