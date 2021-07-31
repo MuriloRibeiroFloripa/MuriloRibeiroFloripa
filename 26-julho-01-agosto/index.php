@@ -44,7 +44,7 @@
         <p><a href="docs/Exercicio1_solução.pdf">3.12 - Exercício 1 - Solucionando</a></p>
         <li><p><a href="docs/Exercício 2 - .pdf">3.13 - Exercício 2</a></p></li>
         <p><a href="docs/Exercício2_solução.pdf">3.13 - Exercício 2 - Solucionado</a></p>
-        <li><p><a href="Exercício 3 - Músicas .pdf">3.14 - Exercício 3 - Músicas</a></p></li>
+        <li><p><a href="docs/Exercício 3 - Músicas .pdf">3.14 - Exercício 3 - Músicas</a></p></li>
         <li><p><a href="docs/Exercício 3 - Músicas_solução .pdf">3.15 - Exercício 3 - Solucionado</a></p></li>
         <li><p>3.16 - Exercício 5</p></li>
         <li><p>3.17 - Exercício 5 - Solucionado</p></li>
