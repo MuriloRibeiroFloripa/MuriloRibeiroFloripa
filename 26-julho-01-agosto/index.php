@@ -46,8 +46,8 @@
         <p><a href="docs/Exercício2_solução.pdf">3.13 - Exercício 2 - Solucionado</a></p>
         <li><p><a href="docs/Exercício 3 - Músicas .pdf">3.14 - Exercício 3 - Músicas</a></p></li>
         <li><p><a href="docs/Exercício 3 - Músicas_solução .pdf">3.15 - Exercício 3 - Solucionado</a></p></li>
-        <li><p>3.16 - Exercício 5</p></li>
-        <li><p>3.17 - Exercício 5 - Solucionado</p></li>
+        <li><p><a href="docs/Exercício 5.pdf">3.16 - Exercício 5</a></p></li>
+        <li><p><a href="docs/Exercício 5-Solucao.pdf">3.17 - Exercício 5 - Solucionado</a></p></li>
         <li><p>3.18 - Exercício 7</p></li>
         <li><p>3.18 - Exercício 7 - Solucionado</p></li>
         <li><p>3.19 - Exercício 8</p></li>
