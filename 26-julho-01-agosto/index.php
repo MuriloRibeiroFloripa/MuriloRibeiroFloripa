@@ -41,17 +41,19 @@
         <li><p>3.10 - ER - Parte 5</p></li>
         <br>
         <li><p><a href="docs/Exercício 1.pdf" target="_blank">3.11 - Exercício 1</a></p></li>
-        <p><a href="docs/Exercicio1_solução.pdf">3.12 - Exercício 1 - Solucionando</a></p>
-        <li><p><a href="docs/Exercício 2 - .pdf">3.13 - Exercício 2</a></p></li>
-        <p><a href="docs/Exercício2_solução.pdf">3.13 - Exercício 2 - Solucionado</a></p>
-        <li><p><a href="docs/Exercício 3 - Músicas .pdf">3.14 - Exercício 3 - Músicas</a></p></li>
-        <li><p><a href="docs/Exercício 3 - Músicas_solução .pdf">3.15 - Exercício 3 - Solucionado</a></p></li>
-        <li><p><a href="docs/Exercício 5.pdf">3.16 - Exercício 5</a></p></li>
-        <li><p><a href="docs/Exercício 5-Solucao.pdf">3.17 - Exercício 5 - Solucionado</a></p></li>
-        <li><p>3.18 - Exercício 7</p></li>
-        <li><p>3.18 - Exercício 7 - Solucionado</p></li>
-        <li><p>3.19 - Exercício 8</p></li>
-        <li><p>3.20 - Exercício 9</p></li>           
+        <p><a href="docs/Exercicio1_solução.pdf"  target="_blank">3.12 - Exercício 1 - Solucionando</a></p>
+        <li><p><a href="docs/Exercício 2 - .pdf"  target="_blank">3.13 - Exercício 2</a></p></li>
+        <p><a href="docs/Exercício2_solução.pdf"  target="_blank">3.13 - Exercício 2 - Solucionado</a></p>
+        <li><p><a href="docs/Exercício 3 - Músicas .pdf"  target="_blank">3.14 - Exercício 3 - Músicas</a></p></li>
+        <p><a href="docs/Exercício 3 - Músicas_solução .pdf"  target="_blank">3.15 - Exercício 3 - Solucionado</a></p>
+        <li><p><a href="docs/Exercício 5.pdf"  target="_blank">3.16 - Exercício 5</a></p></li>
+        <p><a href="docs/Exercício 5-Solucao.pdf"  target="_blank">3.17 - Exercício 5 - Solucionado</a></p>
+        <li><p><a href="docs/Exercício 7.pdf"  target="_blank">3.18 - Exercício 7</a></p></li>
+        <p><a href="docs/Exercício 7-resolvido.pdf"  target="_blank">3.18 - Exercício 7 - Solucionado</a></p>
+        <li><p><a href="docs/Exercício 8.pdf"  target="_blank">3.19 - Exercício 8</a></p></li>
+        <P><a href="docs/Exercício 8_resolvido.pdf"  target="_blank">3.19 - Exercício 8 - Solucionado</a></P>
+        <li><p><a href="docs/Exercício 9.pdf" target="_blank">3.20 - Exercício 9 </a></p></li>           
+        <p><a href="docs/Exercício 9.pdf" target="_blank">3.20 - Exercício 9 - Solucionado</a></p>
       </ul>
   </nav>
 	
