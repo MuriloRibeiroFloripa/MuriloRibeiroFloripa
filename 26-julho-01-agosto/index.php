@@ -40,9 +40,10 @@
         <li><p>3.9 - ER - Parte 4</p></li>
         <li><p>3.10 - ER - Parte 5</p></li>
         <br>
-        <li><p>3.11 - Exercício 1</p></li>
-        <li><p>3.12 - Exercício 1 - Solucionando</p></li>
-        <li><p>3.13 - Exercício 2</p></li>
+        <li><p><a href="docs/Exercício 1.pdf" target="_blank">3.11 - Exercício 1</a></p></li>
+        <p><a href="docs/Exercicio1_solução.pdf">3.12 - Exercício 1 - Solucionando</a></p>
+        <li><p><a href="docs/Exercício 2 - .pdf">3.13 - Exercício 2</a></p></li>
+        <p><a href="docs/Exercício2_solução.pdf">3.13 - Exercício 2 - Solucionado</a></p>
         <li><p>3.14 - Exercício 3 - Músicas</p></li>
         <li><p>3.15 - Exercício 3 - Solucionado</p></li>
         <li><p>3.16 - Exercício 5</p></li>
@@ -50,8 +51,7 @@
         <li><p>3.18 - Exercício 7</p></li>
         <li><p>3.18 - Exercício 7 - Solucionado</p></li>
         <li><p>3.19 - Exercício 8</p></li>
-        <li><p>3.20 - Exercício 9</p></li>
-           
+        <li><p>3.20 - Exercício 9</p></li>           
       </ul>
   </nav>
 	
