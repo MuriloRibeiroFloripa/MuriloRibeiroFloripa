@@ -20,6 +20,8 @@
         <br>          
         <li><p><a href="docs/Exercício 10.pdf" target="_blank">3.21 - Exercício 10 - Fazer</a></p></li>
         <br>
+         <li><p><a href="docs/Exercício 10_1.pdf" target="_blank">3.21 - Exercício 10 - Solucionado</a></p></li>
+        <br>
         <li><p><a href="docs/Exercício 11.pdf" target="_blank">3.22 - Exercício 11 - Fazer</a></p></li>
       </ul>
   </nav>
