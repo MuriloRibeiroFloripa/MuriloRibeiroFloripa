@@ -20,7 +20,7 @@
   <a href="12-julho-18-julho/index.php">12 julho - 18 julho</a>
   <a href="19-julho-25-julho/index.php">19 julho - 25 julho</a>
   <a href="26-julho-01-agosto/index.php">26 julho - 01 agosto</a>
-  <a href="#">2 agosto - 8 agosto</a>
+  <a href="02-agosto-8-agosto/index.php">2 agosto - 8 agosto</a>
   <a href="#">9 agosto - 15 agosto</a>
   <a href="#">16 agosto - 22 agosto</a>
   <a href="#">23 agosto - 29 agosto </a>
